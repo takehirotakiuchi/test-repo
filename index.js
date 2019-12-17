@@ -1,1 +1,1 @@
-test test test
+console.log('OK1234')
